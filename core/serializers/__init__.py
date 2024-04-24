@@ -4,3 +4,4 @@ from .cor import CorSerializer
 from .modelo import ModeloSerializer
 from .placa import PlacaSerializer
 from .carro import CarroListSerialzier, CarroSerializer
+from .usuario import UsuarioSerializer
